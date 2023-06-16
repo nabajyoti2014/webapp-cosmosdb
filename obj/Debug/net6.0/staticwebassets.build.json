@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "4UrvyBI4IlgwUYXTfdTQ9HoIaQsAw5rJtTNcN+wDMnY=",
+  "Source": "cosmosdb",
+  "BasePath": "_content/cosmosdb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "cosmosdb\\wwwroot",
+      "Source": "cosmosdb",
+      "ContentRoot": "C:\\az204\\cosmosdb\\wwwroot\\",
+      "BasePath": "_content/cosmosdb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\az204\\cosmosdb\\wwwroot\\favicon.ico",
+      "SourceId": "cosmosdb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\az204\\cosmosdb\\wwwroot\\",
+      "BasePath": "_content/cosmosdb",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\az204\\cosmosdb\\wwwroot\\icon.png",
+      "SourceId": "cosmosdb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\az204\\cosmosdb\\wwwroot\\",
+      "BasePath": "_content/cosmosdb",
+      "RelativePath": "icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon.png"
+    }
+  ]
+}
